@@ -1,0 +1,48 @@
+.ygaan,
+.tsagaan {
+  font-size: 32px;
+}
+.ygaan {
+  color: #c778dd;
+}
+.tsagaan {
+  color: white;
+  font-weight: 100;
+}
+.ehniih > .tsagaan,
+.ygaan,
+.hr {
+  display: inline-block;
+}
+.hr {
+  width: 300px;
+  height: 2px;
+  background-color: #c778dd;
+  margin-left: 50px;
+}
+.gadn {
+  margin-left: 200px;
+}
+.Text {
+  color: #abb2bf;
+  font-size: 16px;
+  font-weight: 100;
+}
+.gurav {
+  width: 145px;
+  height: 40px;
+  border: 1px solid #c778dd;
+}
+.me {
+  color: white;
+  padding-left: 16px;
+  margin-top: 8px;
+  font-size: 16px;
+  font-weight: 100;
+}
+.Zurag {
+  float: right;
+  height: 100%;
+  width: 400px;
+  margin-right: 300px;
+}

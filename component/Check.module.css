@@ -1,0 +1,75 @@
+.first {
+  height: 245px;
+  width: 403px;
+  border: 1px solid #abb2bf;
+  cursor: pointer;
+}
+.code {
+  height: 52px;
+  width: 403px;
+  border-left: 1px solid #abb2bf;
+  border-right: 1px solid #abb2bf;
+  border-bottom: 1px solid #abb2bf;
+  color: #abb2bf;
+  font-size: 12px;
+  margin-top: -1px;
+  font-weight: 100;
+}
+.code > h2 {
+  display: inline-block;
+  margin-left: 10px;
+}
+.notes {
+  font-size: 24px;
+  color: white;
+  margin-left: 16px;
+  padding-top: 20px;
+  font-weight: 100;
+}
+.two {
+  width: 403px;
+  border-left: 1px solid #abb2bf;
+  border-right: 1px solid #abb2bf;
+  border-bottom: 1px solid #abb2bf;
+  margin-top: -55px;
+}
+.live {
+  height: 37px;
+  width: 112px;
+  border: 1px solid #c778dd;
+  margin-top: -20px;
+  margin-left: 16px;
+}
+.lives {
+  font-size: 18px;
+  margin-top: 5px;
+  margin-left: 15px;
+  color: white;
+  cursor: pointer;
+  font-weight: 100;
+}
+.Mine {
+  font-size: 16px;
+  color: #abb2bf;
+  margin-left: 16px;
+  margin-top: -40px;
+  font-weight: 100;
+}
+.cache {
+  height: 37px;
+  width: 130px;
+  border: 1px solid #abb2bf;
+  margin-left: 140px;
+  margin-top: -37px;
+}
+.cached {
+  font-size: 18px;
+  margin-top: 5px;
+  margin-left: 20px;
+  color: #abb2bf;
+  cursor: pointer;
+  font-weight: 100;
+}
+.gadna {
+  margin-bottom: 16px;
+}
